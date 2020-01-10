@@ -1,0 +1,24 @@
+{
+	"book1525739": {
+		"title": "Elasticsearch Indexing: Improve search experiences with ElasticSearch’s powerful indexing functionality – learn how with this practical ElasticSearch tutorial, packed with tips!",
+		"author": "Huseyin Akdogan",
+		"publisher": "Packt Publishing",
+		"isbn": "978-1-78398-702-3",
+		"year": "2015",
+		"series": "",
+		"edition": "",
+		"volume": ""
+
+	},
+	"book1525753": {
+		"title": "Elasticsearch Server, 2nd Edition: A practical guide to building fast, scalable, and flexible search solutions with clear and easy-to-understand examples",
+		"author": "Marek Rogozinski, Rafal Kuc",
+		"publisher": "Packt Publishing",
+		"isbn": "978-1-78398-052-9",
+		"year": "2014",
+		"series": "",
+		"edition": "",
+		"volume": ""
+
+	}
+}
